@@ -32,7 +32,7 @@ $ yay -S stl-thumb
 [Download the .deb package](https://github.com/unlimitedbacon/stl-thumb/releases/latest) for your platform (usually amd64) and install it. Packages are also available for armhf (Raspberry Pi) and arm64 (Pinebook and other SBCs).
 
 ```
-$ sudo dpkg -i stl-thumb_0.3.0_amd64.deb
+$ sudo dpkg -i stl-thumb_*_amd64.deb
 ```
 
 ## Command Line Usage
